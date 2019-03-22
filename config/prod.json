@@ -1,0 +1,6 @@
+{
+  "redis": {
+    "host": "redis-14015.c16.us-east-1-2.ec2.cloud.redislabs.com",
+    "port": "14015"
+  }
+}
